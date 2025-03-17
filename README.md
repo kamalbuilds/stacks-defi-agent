@@ -10,6 +10,9 @@ To load custom characters instead:
 - Use `pnpm start --characters="path/to/your/character.json"`
 - Multiple character files can be loaded simultaneously
 
+### Demo Video
+
+
 ### Add clients
 ```
 # in character.ts
